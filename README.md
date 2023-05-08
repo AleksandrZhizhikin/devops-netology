@@ -28,4 +28,5 @@ override.tf.json
 Игнорировать файлы настроек CLI
 .terraformrc
 terraform.rc
-
+--------
+08.05.2023 - fix commit
